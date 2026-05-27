@@ -76,14 +76,14 @@ We use standard open‑domain QA datasets: Natural Questions, HotpotQA, 2wikimul
 If you adapt our framework, add a new uncertainty estimator, or evaluate additional language models, feel free to open an issue or a pull request.  We welcome contributions that improve the usability and reproducibility of the codebase.
 
 ## Citation
-
+Coming soon 
 If you use this code or refer to ideas from our paper, please cite:
 
 ```bibtex
-@inproceedings{beyondUncertainty2027,
+@inproceedings{beyondUncertainty2026,
   title={Beyond Self-Knowledge: Propagating Uncertainty Across Reasoning and Retrieval in Large Language Models},
-  author={Your Name and Co‑Authors},
-  year={2027},
-  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  author={Sah, Chandan Kumar and Lian, Xiaoli and Zhang, Li },
+  year={2026},
+  journal={arXiv preprint coming soon,
 }
 ```
