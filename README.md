@@ -16,7 +16,7 @@ The code here is based on the original `AdaRAGUE` repository but has been rename
 
 ## BeyondUncertainty framework
 
-![BeyondUncertainty Framework](figures/framework.pdf)
+![BeyondUncertainty Framework](figures/framewor.pdf)
 
 The figure above summarizes our proposed **BeyondUncertainty** framework.  Given a question and an initial context, an LLM performs multi‑step reasoning and produces a step‑level uncertainty estimate after each step.  An uncertainty‑aware controller aggregates these step uncertainties and decides whether to:
 
